@@ -5,9 +5,6 @@
     "m_Properties": [
         {
             "m_Id": "bcfec74db26d45588b54a53438e21150"
-        },
-        {
-            "m_Id": "a1f5ec3c047a4e1795341fec615aadaf"
         }
     ],
     "m_Keywords": [],
@@ -407,7 +404,7 @@
         "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"f483ad0b821c6734e91b500333ca62eb\",\"type\":3}}",
         "m_Guid": ""
     },
-    "m_DefaultType": 3
+    "m_DefaultType": 0
 }
 
 {
@@ -524,31 +521,6 @@
     },
     "m_Labels": [],
     "m_Channel": 0
-}
-
-{
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "a1f5ec3c047a4e1795341fec615aadaf",
-    "m_Guid": {
-        "m_GuidSerialized": "c049f94f-1a8a-4c0a-bfba-a14ea6deada5"
-    },
-    "m_Name": "Alpha",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Alpha",
-    "m_DefaultReferenceName": "Alpha",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": 0.5,
-    "m_FloatType": 0,
-    "m_RangeValues": {
-        "x": 0.0,
-        "y": 1.0
-    }
 }
 
 {
