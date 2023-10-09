@@ -2,20 +2,19 @@
 
 主にシェーダを使ってループアニメーションを実装します。
 
-![結果画像1](result1_1.gif)
+![結果画像1](https://github.com/Iketerumanato/Select02/assets/74332407/f7e63ac7-5156-499e-83dc-2a3eda682ace)
 
-![結果画像2](result1_2.gif)
+![結果画像2](https://github.com/Iketerumanato/Select02/assets/74332407/6aad681f-1bc1-4f90-84b5-728f5d195033)
 
-![結果画像3](result1_3.gif)
+![結果画像3](https://github.com/Iketerumanato/Select02/assets/74332407/f46bbe9e-59d2-402e-9e5c-e1882de30173)
 
-![結果画像](result1.gif)
+![結果画像](https://github.com/Iketerumanato/Select02/assets/74332407/11305809-c25a-4c11-a01d-12cf5abbcfa5)
 
-![シェーダグラフ](node_graph1.png)
+![シェーダグラフ](https://github.com/Iketerumanato/Select02/assets/74332407/ca863df5-3cb9-4013-8d59-9c3e90a44a0a)
 
 # 自分なりに変更した点
--
--
--
+-走る線を発光させたこと
+-色の移り変わりをスムーズに
 
 # 進め方
 
