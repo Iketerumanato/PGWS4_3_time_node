@@ -36,28 +36,26 @@
 
 シェーダを使ってノイズやノイジーに消える表現を実装します。
 
-![結果画像1](result2_1.jpg)
+![結果画像1](https://github.com/Iketerumanato/ComingHome/assets/74332407/e4780c3e-7f53-4226-91bd-c96f06a838a2)
 
-![結果画像2](result2_2.gif)
+![結果画像2](https://github.com/Iketerumanato/ComingHome/assets/74332407/a16be7ff-bb22-421f-94ba-87282c48bd23)
 
-![結果画像3](result2_3.jpg)
+![結果画像3](https://github.com/Iketerumanato/ComingHome/assets/74332407/110d01ac-6be7-405f-95b9-dc9d9d761ed0)
 
-![結果画像4](result2_4.gif)
+![結果画像4](https://github.com/Iketerumanato/ComingHome/assets/74332407/308188ec-7bb4-4fdb-87ca-b210e0f5c2c7)
 
-![結果画像5](result2_5.gif)
+![結果画像5](https://github.com/Iketerumanato/ComingHome/assets/74332407/93b112e9-8d7c-4c97-8d1d-63dcf8633cef)
 
-![結果画像6](result2_6.gif)
+![結果画像6](https://github.com/Iketerumanato/ComingHome/assets/74332407/692cbdb1-661a-4d32-a8a8-1f8ef9653791)
 
-![結果画像7](result2_7.gif)
+![結果画像7](https://github.com/Iketerumanato/ComingHome/assets/74332407/dc98f94c-000c-40ac-8694-cb0fba5d9e95)
 
-![結果画像](result2.gif)
+![結果画像](https://github.com/Iketerumanato/ComingHome/assets/74332407/c55fd0c7-7cfb-4790-b9db-c786f25cf596)
 
-![シェーダグラフ](node_graph2.png)
+![シェーダグラフ](https://github.com/Iketerumanato/ComingHome/assets/74332407/0c61fa02-4f5b-4451-8de4-a6fbbdc31e10)
 
 # 自分なりに変更した点
--
--
--
+-テクスチャを追加し、惑星を表現。
 
 # 進め方
 
